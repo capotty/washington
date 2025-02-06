@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -21,83 +24,83 @@
 	</url>
 	<url>
 		<loc>/renton/</loc>
-		<lastmod>2025-02-06T00:32:34+00:00</lastmod>
+		<lastmod>2025-02-06T20:25:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/spokane-valley/</loc>
-		<lastmod>2025-02-06T00:32:34+00:00</lastmod>
+		<lastmod>2025-02-06T20:25:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/kent/</loc>
-		<lastmod>2025-02-06T00:32:33+00:00</lastmod>
+		<lastmod>2025-02-06T20:25:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/everett/</loc>
-		<lastmod>2025-02-06T00:32:33+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/vancouver/</loc>
-		<lastmod>2025-02-06T00:32:32+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/bellevue/</loc>
-		<lastmod>2025-02-06T00:32:32+00:00</lastmod>
+		<lastmod>2025-02-06T20:25:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/tacoma/</loc>
-		<lastmod>2025-02-06T00:32:31+00:00</lastmod>
+		<lastmod>2025-02-06T20:25:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/vancouver/</loc>
+		<lastmod>2025-02-06T20:25:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/bellevue/</loc>
+		<lastmod>2025-02-06T20:25:04+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/bremerton/</loc>
-		<lastmod>2025-02-06T00:32:31+00:00</lastmod>
+		<lastmod>2025-02-06T20:25:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/spokane/</loc>
-		<lastmod>2025-02-06T00:32:30+00:00</lastmod>
+		<lastmod>2025-02-06T20:25:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/lakewood/</loc>
-		<lastmod>2025-02-06T00:32:30+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/pasco/</loc>
-		<lastmod>2025-02-06T00:32:29+00:00</lastmod>
+		<lastmod>2025-02-06T20:25:02+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/sammamish/</loc>
-		<lastmod>2025-02-06T00:32:29+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/redmond/</loc>
-		<lastmod>2025-02-06T00:32:28+00:00</lastmod>
+		<lastmod>2025-02-06T20:25:02+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/kennewick/</loc>
-		<lastmod>2025-02-06T00:32:27+00:00</lastmod>
+		<lastmod>2025-02-06T20:25:01+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/redmond/</loc>
+		<lastmod>2025-02-06T20:25:01+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/pasco/</loc>
+		<lastmod>2025-02-06T20:25:01+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/federal-way/</loc>
-		<lastmod>2025-02-06T00:32:27+00:00</lastmod>
+		<lastmod>2025-02-06T20:25:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/bellingham/</loc>
-		<lastmod>2025-02-06T00:32:27+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/auburn/</loc>
-		<lastmod>2025-02-06T00:32:26+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/marysville/</loc>
-		<lastmod>2025-02-06T00:32:26+00:00</lastmod>
+		<lastmod>2025-02-06T20:25:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/kirkland/</loc>
-		<lastmod>2025-02-06T00:32:25+00:00</lastmod>
+		<lastmod>2025-02-06T20:24:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/auburn/</loc>
+		<lastmod>2025-02-06T20:24:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/marysville/</loc>
+		<lastmod>2025-02-06T20:24:59+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/seattle/</loc>
-		<lastmod>2025-02-06T00:32:24+00:00</lastmod>
+		<lastmod>2025-02-06T20:24:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
